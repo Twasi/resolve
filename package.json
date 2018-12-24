@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Twasi/resolve/issues"
   },
-  "homepage": "https://github.com/Twasi/resolve#readme"
+  "homepage": "https://github.com/Twasi/resolve#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.4.0"
+  }
 }
