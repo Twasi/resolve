@@ -1,3 +1,0 @@
-FROM alpine
-
-RUN apk add redis nodejs nodejs-npm
